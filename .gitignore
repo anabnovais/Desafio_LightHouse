@@ -28,12 +28,12 @@ Thumbs.db
 
 # Dados locais
 data/
-*.csv
-*.xlsx
-*.parquet
+.csv
+.xlsx
+.parquet
 
 # Arquivos temporários
-*.tmp
-*.temp
+.tmp
+.temp
 
-*.csv
+.csv
